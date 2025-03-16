@@ -1,0 +1,23 @@
+{
+  "greeting": "Holii",
+  "name": "Edu",
+  "greetingText": "Un nombre muy bonito!",
+  "wishText": "Que Dios te bendiga en este día tan especial ;)",
+  "imagePath": "img/secta.jpg",
+  "text1": "Es tu cumple!!! :D",
+  "textInChatBox": "Feliz cumpleaños AAAAAAA",
+  "sendButtonLabel": "Enviar",
+  "text2": "Eso hemos hecho",
+  "text3": "pero además",
+  "text4": "también queríamos hacer algo más",
+  "text4Adjective": "especial",
+  "text5Entry": "porque ",
+  "text5Content": "tú lo eres",
+  "smiley": ":)",
+  "bigTextPart1": "así que ",
+  "bigTextPart2": " ",
+  "wishHeading": "Felices  21!",
+  "outroText": "Okay, ahora vuelve y nos dices si te gustó.",
+  "replayText": "O clickea si lo quieres ver otra vez.",
+  "outroSmiley": ":)"
+}
