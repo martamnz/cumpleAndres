@@ -217,6 +217,10 @@ body {
   color: #00bfff; 
 }
 
+.wish-hbd {
+  color: #00bfff !important;
+}
+
 .wish h5 {
   font-weight: lighter;
   font-size: 2rem;
